@@ -1,2 +1,2 @@
-# Angular_8_Calculator
-A calculator made in angular :: Exercise to be sharp and running!
+# Angular_Calculator
+A calculator made in angular :: have fun! and learn Angular. 
